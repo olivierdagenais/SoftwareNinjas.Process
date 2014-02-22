@@ -1,13 +1,13 @@
-CapturedProcess
-===============
+SoftwareNinjas.Process
+======================
 A .NET class library for collecting stdout and stderr from command-line programs
 
 
 Installation
 ============
-It will be easiest if you install the `CapturedProcess` NuGet package:
+It will be easiest if you install the `SoftwareNinjas.Process` NuGet package:
 
-    PM> Install-Package CapturedProcess
+    PM> Install-Package SoftwareNinjas.Process
 
 
 Usage
